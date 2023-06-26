@@ -1,6 +1,6 @@
 # Make It Real - NAME OF THE PROJECT
 
-This is a solution to the HTML-1 project of the Make It Real course.
+This is a solution to the profile-card-bem-notation project of the Make It Real course.
 
 ## Table of contents
 
